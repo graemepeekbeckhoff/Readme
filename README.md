@@ -8,6 +8,7 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 [![Contributors][contributors-shield]][contributors-url]
+[![Commits][Commits-shield]]
 [![Forks][forks-shield]][forks-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
@@ -194,6 +195,8 @@ Use this space to list resources you find helpful and would like to give credit 
 [contributors-url]: https://github.com/graemepeekbeckhoff/ReadMe/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/graemepeekbeckhoff/Readme.svg?style=for-the-badge
 [forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
+[commits-shield]: https://img.shields.io/github/commit-activity/t/graemepeekbeckhoff/Readme?style=for-the-badge
+[commits-url]:https://img.shields.io/github/graemepeekbeckhoff/Readme
 [issues-shield]: https://img.shields.io/badge/Issue-blue?style=for-the-badge
 [issues-url]: https://github.com/graemepeekbeckhoff/ReadMe/issues
 [license-shield]:  https://img.shields.io/badge/License-yellow?style=for-the-badge
