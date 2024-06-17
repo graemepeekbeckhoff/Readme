@@ -195,7 +195,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [forks-shield]: https://img.shields.io/github/forks/graemepeekbeckhoff/Readme.svg?style=for-the-badge
 [forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
 [issues-shield]: https://img.shields.io/badge/Issue-blue?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
+[issues-url]: https://github.com/graemepeekbeckhoff/ReadMe/issues
 [license-shield]:  https://img.shields.io/badge/License-yellow?style=for-the-badge
 [license-url]: https://github.com/graemepeekbeckhoff/ReadMe/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-blue.svg?style=for-the-badge&logo=linkedin&colorB=555
