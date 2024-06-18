@@ -26,7 +26,7 @@
   <h3 align="center">TC3-README-Template</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    README template for your Beckhoff projects!
     <br />
     <a href="https://github.com/graemepeekbeckhoff/Cardinal_Robot"><strong>Explore the docs »</strong></a>
     <br />
