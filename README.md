@@ -33,7 +33,7 @@
     <br />
     <a href="[https://github.com/graemepeekbeckhoff/ReadMe](https://github.com/graemepeekbeckhoff/ReadeMe)">View Demo</a>
     ·
-    <a href="https://github.com/graemepeekbeckhoffireadme/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/graemepeekbeckhoff/ReadMe/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
     <a href="https://github.com/graemepeekbeckhoff/ReadMe/issues/new?labels=enhancement&template=feature-request---.md">Change Request</a>
   </p>
